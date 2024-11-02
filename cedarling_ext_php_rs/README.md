@@ -36,5 +36,5 @@ NOTICE!!! Here is assumed that  your cedarling repository existed on the path: /
      php -d extension=/var/www/html/cedarling/jans/jans-cedarling/target/debug/libext_php_rs_test.so /var/www/html/cedarling/jans/jans-cedarling/bindings/cedarling_ext_php_rs/test.php
      ```
      
-5.      You can find php extension library on the path /var/www/html/cedarling/jans/jans-cedarling/target/debug/libext_php_rs_test.so and use it . Function cedarling_authorize_test($token, $payload_str); will be accessible in your php code. 
+5.      You can find php extension library on the path /var/www/html/cedarling/jans/jans-cedarling/target/debug/libext_php_rs_test.so and use it in php.ini . Function cedarling_authorize_test($token, $payload_str); will be accessible in your php code. 
 
