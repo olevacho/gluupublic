@@ -16,5 +16,21 @@
         ],
         "noDirectLaunch": [],
         "configs": {}
+    },
+    "myproject1": {
+        "projectName": "myproject1",
+        "description": "policies for support",
+        "type": "community",
+        "author": "olevacho",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/olevacho/gluupublic",
+        "githubUri": "https://github.com/olevacho/gluupublic",
+        "license": "apache-2.0",
+        "lastUpdated": "1732644992608",
+        "tags": [
+            "authorization"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
